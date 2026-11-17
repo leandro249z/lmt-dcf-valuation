@@ -1,5 +1,4 @@
-
-    # Lockheed Martin (LMT) Discounted Cash Flow Valuation
+# Lockheed Martin (LMT) Discounted Cash Flow Valuation
 
 **File:** `LMT_DCF_Model.xlsx`
 
