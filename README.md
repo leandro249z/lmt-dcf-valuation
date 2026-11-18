@@ -8,14 +8,14 @@ I valued Lockheed Martin using a discounted cash flow (DCF) model. I chose it be
 
 | Metric | Value |
 |---|---|
-| Implied value per share (base case) | about $480 |
-| Share price used (Oct 30, 2026 close) | $636.95 |
-| Implied upside / (downside) | about (25%) |
+| Implied value per share (base case) | about $483 |
+| Share price used (Nov 13, 2026 close) | $596.04 |
+| Implied upside / (downside) | about (19%) |
 | WACC | 7.6% |
 | Terminal growth | 2.5% |
 | Terminal value as % of enterprise value | 79% |
-| Implied terminal EV / EBITDA | 12.5x |
-| Current EV / EBITDA (2025) | 17.5x |
+| Implied terminal EV / EBITDA | 12.6x |
+| Current EV / EBITDA (2025) | 16.5x |
 
 At these assumptions, the model values LMT below the market price. The market is pricing in higher growth, higher margins, or a lower discount rate than my base case. I think that gap is the most useful part of the analysis, not the single number.
 
@@ -33,7 +33,7 @@ Every number from a filing is typed in blue and traces to a source. Every calcul
 ### Sources
 
 - Lockheed Martin, *Reports Fourth Quarter and Full Year 2025 Financial Results* (January 29, 2026): sales, operating profit, interest expense, taxes, EPS, cash flow, capex, debt, cash and equity
-- StockAnalysis (stockanalysis.com/stocks/lmt): share price (Oct 30, 2026 close) and shares outstanding
+- StockAnalysis (stockanalysis.com/stocks/lmt): share price (Nov 13, 2026 close) and shares outstanding
 - YCharts: 10-year U.S. Treasury yield, 5.10% (Nov 12, 2026)
 
 ### My assumptions (not sourced)
@@ -53,7 +53,7 @@ Every number from a filing is typed in blue and traces to a source. Every calcul
 
 - **Pension obligations are not modeled.** Lockheed has large pension liabilities and a large 2025 non-service pension swing, so this is the biggest gap.
 - **Leases and other debt-like items are excluded** from net debt.
-- **Timing mismatch:** cash flows are discounted from December 31, 2025, but compared with an October 2026 share price. A full model would roll the valuation date forward.
+- **Timing mismatch:** cash flows are discounted from December 31, 2025, but compared with a November 13, 2026 share price. A full model would roll the valuation date forward.
 - **Beta is a judgment call.** A regression against the S&P 500 over five years would be a better estimate.
 - **No scenarios.** The model does not test defense budget changes, program risk (such as the F-35), or contract charges.
 
@@ -69,4 +69,3 @@ Every number from a filing is typed in blue and traces to a source. Every calcul
 I built this to practice the valuation skills used in corporate finance, FP&A and financial risk. I work in financial reporting and investment analysis at La Fábrica PR LLC, and I am completing my B.B.A. in Finance at the University of Puerto Rico, Mayagüez campus. I would welcome feedback.
 
     
-
